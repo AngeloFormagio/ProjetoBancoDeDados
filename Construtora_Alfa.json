@@ -1,0 +1,41 @@
+[{
+		"obra": 171,
+		"nome": "Condominio das libelulas",
+		"endereco": {
+			"logradouro": "Avenida Piracaju",
+			"numero": 33
+		},
+		"folha_de_pagamento": 15800,
+		"trabalhadores": ["Fabiano Figueredo", "Jorge Luz", "Juan Oliveira", "Rodrigo Silva", "Vitor Jacques"]
+	},
+	{
+		"obra": 116,
+		"nome": "Condomínio Araras",
+		"endereco": {
+			"logradouro": "Avenida Rio Grande",
+			"numero": 22
+		},
+		"folha_de_pagamento": 7423.29,
+		"trabalhadores": ["Carlos Dutra", "Mário Pires"]
+	},
+	{
+		"obra": 115,
+		"nome": "Condomínio dos Lagos",
+		"endereco": {
+			"logradouro": "Travessa dos Lagos",
+			"numero": 100
+		},
+		"folha_de_pagamento": 8503.05,
+		"trabalhadores": ["José Chaves", "Maria Aparecida", "Pedro Passos"]
+	},
+	{
+		"obra": 200,
+		"nome": "Parque da lagoa",
+		"endereco": {
+			"logradouro": "Avenida Rio dos Patos",
+			"numero": 59
+		},
+		"folha_de_pagamento": 10400,
+		"trabalhadores": ["Armando Faria", "Bruno Rodrigues", "Lindomar Douglas", "Mariano Souza", "Wendel Junior"]
+	}
+]
